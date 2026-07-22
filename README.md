@@ -1,4 +1,4 @@
-# Mass-Shooting-in-USA
+# Mass Shooting in USA
 
 ![Headline exact](gun-violence-1.jpg)
 Gun violence in the United States include mass shootings, homicides, suicides, and accidental shootings. From the data, U.S.A. recorded a total number of 694 cases of mass shooting with 2,836 injured and 701 dead in 2021. The number of people killed or injured in these incidents can vary widely, but the impact on individuals, families, and communities is often devastating.
